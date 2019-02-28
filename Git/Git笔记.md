@@ -2,10 +2,6 @@
 
 
 
-![无标题](C:\Users\hello\Desktop\Learn\Git\assets\无标题.png)
-
-
-
 ### 版本回退
 
 * 重置当前工作区与暂存区： Git  reset HEAD test.txt
@@ -21,7 +17,7 @@
 * 删除远程分支：Git push origin -- delete dev
 * 切换：Git checkout dev
 * 合并分支到当前分支：Git  merge dev
-* 将本地分支与远程分支绑定： Git branch -set-upstream dev origin/dev
+* 将本地分支与远程分支绑定： Git branch --set--upstream dev origin/dev
 * 推送分支到远程： Git  push origin dev
 
 
