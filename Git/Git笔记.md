@@ -1,6 +1,6 @@
 # Git笔记
 
-
+![](E:\Myself\WindtalkersAcher_DevelopToolNotes\Git\assets\无标题.png)
 
 ### 版本回退
 
@@ -29,8 +29,3 @@
 * 恢复隐藏：Git stash apply
 * 删除隐藏备份： Git stash drop
 * 恢复并删除隐藏备份： Git stash pop
-
-
-
-测试
-
